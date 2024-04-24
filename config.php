@@ -9,6 +9,6 @@ $databaseUsername = ""; // db username
 $databasePassword = ""; // db password
 */
 
-$sudoID = ""; // sudo id
+$sudoID = "5145609515"; // sudo id
 
 date_default_timezone_set("Asia/Riyadh");
