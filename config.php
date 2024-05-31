@@ -1,12 +1,12 @@
 <?php
 $TOKEN = "7134819824:AAF1ytVyq2mWYdjd4InOerTW18eVRc-I5pQ"; // bot token
-$botUsername = ""; // bot username without @
+$botUsername = "@Alidzrtbot"; // bot username without @
 
 /*
-$databaseHost = "localhost";
-$databaseName = ""; // db name
-$databaseUsername = ""; // db username
-$databasePassword = ""; // db password
+$databaseHost = "ep-young-hill-a2kq3043.eu-central-1.pg.koyeb.app";
+$databaseName = "hmaia"; // db name
+$databaseUsername = "koyeb-adm"; // db username
+$databasePassword = "f0pDAm5tFjLE"; // db password
 */
 
 $sudoID = ""; // sudo id
